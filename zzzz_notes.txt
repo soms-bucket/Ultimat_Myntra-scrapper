@@ -1,0 +1,95 @@
+product = 3,50,000
+
+item = 34 (men & women)
+
+
+
+# Men Clothing
+# Women Clothing     #page 2300*2
+https://www.myntra.com/men-clothings?p=2000&plaEnabled=false
+
+
+# Footwear		#page 600*2
+https://www.myntra.com/women-footwear?p=50&plaEnabled=false
+
+
+
+# Watches	#pages 100*2
+https://www.myntra.com/women-watches?p=4&plaEnabled=false
+
+
+
+# Wallets	#page 60*2
+https://www.myntra.com/women-wallets?p=4&plaEnabled=false
+
+
+
+# Bags/Backpacks	         
+https://www.myntra.com/men-bags?p=2&plaEnabled=false     #page 120 
+https://www.myntra.com/women-bags?p=2&plaEnabled=false   #page 362 
+
+
+# Jewellery	 		
+https://www.myntra.com/men-jewellery?p=5&plaEnabled=false    #page 40
+https://www.myntra.com/women-jewellery?p=5&plaEnabled=false	#page 500
+
+
+# Belts			
+https://www.myntra.com/men-belts?p=5&plaEnabled=false       #page 100
+https://www.myntra.com/women-belts?p=5&plaEnabled=false     #page 20  
+
+
+# Ties   	
+https://www.myntra.com/men-ties?p=5&plaEnabled=false       #page 40
+
+https://www.myntra.com/ties-girls   				[single page]
+
+
+# Cufflinks	
+https://www.myntra.com/men-cufflinks?p=5&plaEnabled=false	#page 20 
+
+https://www.myntra.com/cufflinks-women?p=1&plaEnabled=false  [single page]
+
+
+# Pocket Squares	
+https://www.myntra.com/pocket-squares-men?p=2&plaEnabled=false	  #page 20 
+
+
+# Caps and Hats		
+https://www.myntra.com/caps-for-men?p=1&plaEnabled=false  #page 20
+https://www.myntra.com/hats-for-men?p=1&plaEnabled=false [single page]
+https://www.myntra.com/hats-for-women?p=1&plaEnabled=false  #page 2
+
+
+
+# Mufflers, Scarves and Gloves		
+
+https://www.myntra.com/mufflers,-scarves-and-gloves?p=2&plaEnabled=false  #page 30
+
+
+# Phones Cases		
+https://www.myntra.com/phones-cases?p=2&plaEnabled=false   #page 14
+
+
+
+# Rings and Wristwear		
+https://www.myntra.com/rings-and-wristwear-men?p=2&plaEnabled=false   #page 3
+https://www.myntra.com/rings-and-wristwear-women?p=2&plaEnabled=false #page 40
+
+
+# Socks		
+https://www.myntra.com/men-socks?p=2&plaEnabled=false    #page 50
+https://www.myntra.com/women-socks?p=2&plaEnabled=false	  #page 20
+
+
+# Bracelets		
+https://www.myntra.com/men-bracelets?p=2&plaEnabled=false       #page 10
+https://www.myntra.com/women-bracelets?p=2&plaEnabled=false      #page 50
+
+# Chains		
+https://www.myntra.com/men-chains?p=2&plaEnabled=false       #page 3
+https://www.myntra.com/women-chains?p=2&plaEnabled=false	#page 6
+
+
+289500
+
