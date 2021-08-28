@@ -343,7 +343,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/5
 # the page about to scrape
 
 #Clothing********************************************
-print("Grroom Assignment:\n")
+print("Starting Ultimate:\n\n")
 print("Collecting Clothings....")
 gen="men"
 for i in range(2):
