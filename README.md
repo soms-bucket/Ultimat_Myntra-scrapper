@@ -14,7 +14,7 @@ access entire Myntra product description, all_l=Lnks, price &amp;&amp; many more
 <li>Go to <strong>Ultimat_Myntra-scrapper-main</strong> folder<br>
 <li>open command-prompt(cmd)<strong>[**in same folder location]</strong><br>
   <li>type:<br>
-  <pre>python requirements.txt </pre>
+  <pre>pip install -r requirements.txt </pre>
   <li>type:<br>
   <pre>python Myntra_scrap.py</pre>
     
